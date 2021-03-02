@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "TestACC"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "VjJiFtHZl+ucPDaXSJSYOQ==",
+                "sym_key": "GEQc1vI35YQBdKUUAyuIUaoeKK89Guo4PNh+5YaRnWr3an4J66Zwd0J341/MJ9HRYPHEIj4SqM2yC7niJhJRwLEmBVkxiHlgm/zXSBRbPqFUJ5H6HuAiVysMwwiqOaMEL8mztPQtwxzti2HtfcbAMRSy/0siAs0Rj1ENc8ZelSfwn37vIvhDbclTk0+eQVykKhFl8tQ9k4hIgrGTpO9JqTjoXtpP6kGzlKY8fQKa95onsGYR/E+vQoYdtQhP2/wGAGGAOvj33/+zMZIQUcezFQOjeMivo26XrguouHA6zue2jZuX9LpQomGI5urV7rxmRvRxnQhBaMa0vjrEgr8+4w==",
+                "value": "jfKN/skH4F1DrUhBnxklFQ=="
+            },
+            "username": {
+                "value": "dasd"
+            }
+        },
+        "view_serial": 100
+    }
+}
